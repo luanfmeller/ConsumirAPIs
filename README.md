@@ -1,10 +1,12 @@
 # Consumir APIs diversas
 Projeto para realizar consumos de API's diversas
 
-# Linguagem utilizada
+# Tecnologias utilizadas
 C# .Net MVC
+Bootstrap
+JSON
 
 # API's utilizadas
-Correios CEP
+Correios CEP - https://github.com/murilopereirame/Correios.CEP/
 
 IBGE (https://servicodados.ibge.gov.br/api/docs/localidades?versao=1) - Distritos por IBGE - em desenvolvimento

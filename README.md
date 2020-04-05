@@ -3,7 +3,9 @@ Projeto para realizar consumos de API's diversas
 
 # Tecnologias utilizadas
 C# .Net MVC
+
 Bootstrap
+
 JSON
 
 # API's utilizadas

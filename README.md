@@ -6,6 +6,8 @@ C# .Net MVC
 
 Bootstrap
 
+AJAX
+
 JSON
 
 # API's utilizadas
